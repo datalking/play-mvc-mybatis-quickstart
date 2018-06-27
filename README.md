@@ -1,5 +1,5 @@
 # play-mvc-mybatis-quickstart   
-> demo webapp for play-mvc and mybatis  
+> demo webapp for play-mvc and mybatis. similar to ssm.
 
 ## dev 
 ```sh
