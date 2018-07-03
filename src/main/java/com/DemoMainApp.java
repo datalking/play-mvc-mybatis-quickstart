@@ -11,11 +11,11 @@ import javax.servlet.ServletException;
 import java.io.File;
 
 
-public class MainApp {
+public class DemoMainApp {
 
     public static void main(String[] args) throws ServletException, LifecycleException {
 
-        String webappDirLoc = "starter-demo/src/main/webapp/";
+        String webappDirLoc = "src/main/webapp/";
         File webInfClasses = new File("target/classes");
 
         Tomcat tomcat = new Tomcat();
